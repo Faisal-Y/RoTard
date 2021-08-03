@@ -1,0 +1,110 @@
+body {
+	font-family: "Montserrat";
+}
+
+.navbar-brand {
+	font-family: "Amita-Bold";
+	font-size: 3rem;
+	color: #000;
+	padding: 50px;
+}
+
+#title {
+	background-color: #50cb93;
+	color: white;
+	text-align: left;
+}
+
+.nav-item {
+	font-family: "Montserrat";
+	font-weight: normal;
+	font-size: 1.2rem;
+}
+
+h2 {
+	font-family: "Montserrat";
+	font-weight: 900;
+	line-height: 1.5;
+	text-align: center;
+	width: 100%;
+	margin-top: 5%;
+}
+.btns {
+	text-align: center;
+	padding: 10%;
+}
+
+.feature-box {
+	text-align: center;
+	padding: 5%;
+	font-family: "Montserrat";
+	font-size: 1.3rem;
+}
+.icon {
+	color: #71efa3;
+	font-size: 2rem;
+	padding: 1rem;
+}
+
+.feature-box h3 {
+	font-weight: bold;
+}
+
+.icon:hover {
+	color: #54436b;
+	transition: 0.05ms;
+}
+
+#testimonials {
+	background-color: #71efa3;
+	color: white;
+}
+
+.carousel-item {
+	text-align: center;
+	width: 50%px;
+	padding: 100px;
+}
+
+#pricing {
+	padding: 100px;
+	text-align: center;
+}
+
+.pricing-column {
+	padding: 3% 2%;
+}
+
+p {
+	text-align: center;
+	font-size: 1rem;
+}
+#cta {
+	text-align: center;
+	background-color: #71efa3;
+}
+
+#cta h3 {
+	color: white;
+	font-size: 40px;
+	padding: 100px;
+}
+
+#cta .btn {
+	margin: 20px 2px;
+	margin-bottom: 70px;
+}
+
+#footer {
+	text-align: center;
+	background-color: #50cb93;
+	background-repeat: repeat;
+	padding: 7% 14%;
+}
+
+.links {
+	padding: 20px;
+}
+.link {
+	margin: 20px 10px;
+}
